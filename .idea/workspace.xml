@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f597e108-538d-4642-b6ad-9e58a9c0c8bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/twitterComplaintBot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="f597e108-538d-4642-b6ad-9e58a9c0c8bc" name="Changes" comment="first commit. setting up selenium and getting it to open the speed test page and start checking the speed and when the test finished get the download and upload speeds and close the speed test window.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1719421531854</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="first commit. setting up selenium and getting it to open the speed test page and start checking the speed and when the test finished get the download and upload speeds and close the speed test window.">
+      <option name="closed" value="true" />
+      <created>1719425922560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1719425922560</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit. setting up selenium and getting it to open the speed test page and start checking the speed and when the test finished get the download and upload speeds and close the speed test window." />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit. setting up selenium and getting it to open the speed test page and start checking the speed and when the test finished get the download and upload speeds and close the speed test window." />
   </component>
 </project>
